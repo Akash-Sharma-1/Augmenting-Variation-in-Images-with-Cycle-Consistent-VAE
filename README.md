@@ -24,7 +24,7 @@ Backward Cycle of cycle consistent variational  autoencoder
 
 _(Implemented Cycle consistent variational autoencoder to disentangle representations)_
 
-The implementation is based upon the ideas and model used in the paper[^1]discussing of using a novel architecture made of cycle consistent VAE framework to disentangle representations.
+The implementation is based upon the ideas and model used in the paper [^1] discussing of using a novel architecture made of cycle consistent VAE framework to disentangle representations.
 
 
 
