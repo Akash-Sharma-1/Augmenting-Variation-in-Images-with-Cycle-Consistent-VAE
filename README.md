@@ -4,7 +4,7 @@
 
 Implementation as well as few qualitatitive experiments for the state-of-the-art variational autoencoder technique of "Disentanglement Cycle-consistent VAE" on the synthetic caricatures dataset - 2D Sprites. 
 
-Dataset Link - http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
+**Dataset Link** - http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
 
 
 ## Implementation of the model
