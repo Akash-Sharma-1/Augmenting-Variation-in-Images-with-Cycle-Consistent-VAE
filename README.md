@@ -4,11 +4,11 @@
 
 Re - Implementation as well as few qualitatitive experiments for the state-of-the-art variational autoencoder technique of "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders" on the synthetic caricatures dataset - 2D Sprites. 
 
-**Dataset Link** - http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
+- **Dataset Link** - http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
 
-**Paper Link** - http://arxiv.org/abs/1804.10469
+- **Paper Link** - http://arxiv.org/abs/1804.10469
 
-**Original Repo Link** - https://github.com/ananyahjha93/cycle-consistent-vae
+- **Original Repo Link** - https://github.com/ananyahjha93/cycle-consistent-vae
 
 
 ## Implementation of the model
