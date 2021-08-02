@@ -6,6 +6,8 @@ Re - Implementation as well as few qualitatitive experiments for the state-of-th
 
 **Dataset Link** - http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
 
+**Paper Link** - http://arxiv.org/abs/1804.10469
+
 **Original Repo Link** - https://github.com/ananyahjha93/cycle-consistent-vae
 
 
